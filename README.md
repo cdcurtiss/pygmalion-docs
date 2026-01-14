@@ -1,1 +1,1 @@
-# self-guide
+# pygmalion-docs
