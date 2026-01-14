@@ -12,7 +12,7 @@ Welcome to the internal documentation portal for festival staff. Please select t
 ---
 
 ### Quick Links
-* **Emergency Contact:** SF (Executive Director)
+* **Emergency Contact:** Caleb Curtiss (Executive Director)
 * **Medical Channel:** Ch. 4
 * **Vendor Portal:** [External Link]
 
